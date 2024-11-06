@@ -1,0 +1,6 @@
+@TeamPlayerAPI_HostAddress = http://localhost:5257
+
+GET {{TeamPlayerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
